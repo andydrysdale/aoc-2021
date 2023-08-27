@@ -1,5 +1,5 @@
-player1Number = 6
-player2Number = 1
+player1Number = 3
+player2Number = 5
 player1Total = 0
 player2Total = 0
 diceSize = 100
