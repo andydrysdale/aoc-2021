@@ -1,7 +1,8 @@
-targetMaxX = 273
-targetMinX = 241
-targetMaxY = -63
-targetMinY = -97
+#target area: x=217..240, y=-126..-69
+targetMaxX = 240
+targetMinX = 217
+targetMaxY = -69
+targetMinY = -126
 
 maxY = -999999999
 
